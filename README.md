@@ -1,5 +1,7 @@
 This is a game [copycat](https://codepen.io/Gthibaud/pen/ryQRYP) from [gtibo](https://codepen.io/Gthibaud) that I've tried and decided to make typescript code from it. Just experience with typescript + Webpack.
 
+![copycat](https://raw.githubusercontent.com/cmoon2000/copycat/master/game.png)
+
 Because of I use NODE_PATH system variable to yarn global packages, using Powershell:
 ```powershell
 $ $env:NODE_PATH="C:\Users\haind\AppData\Local\Yarn\config\glob
