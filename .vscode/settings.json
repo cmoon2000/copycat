@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "tslint.enable": true,
+  "tslint.nodePath": "C:\\Users\\haind\\AppData\\Local\\Yarn\\config\\global\\node_modules\\tslint\\lib",
+"typescript.tsdk": "C:\\Users\\haind\\AppData\\Local\\Yarn\\config\\global\\node_modules\\typescript\\lib"
+}

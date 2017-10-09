@@ -1,0 +1,12 @@
+{
+  "name": "copycaat",
+  "version": "0.0.1",
+  "scripts": {
+    "link": "$env:NODE_PATH=\"C:\\Users\\haind\\AppData\\Local\\Yarn\\config\\global\\node_modules\"",
+    "webpack": "webpack",
+    "watch": "webpack -w"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.2.3"
+  }
+}
